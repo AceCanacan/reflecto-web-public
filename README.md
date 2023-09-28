@@ -1,6 +1,12 @@
 # 🧠 Reflecto 🧠
 An AI-powered journaling app that uses the OpenAI API. Dive deep into introspection with the help of a chatbot. Explore the app [here](http://aws-amplify-dummy-link.com).
 
+<img width="1000" alt="Screen Shot 2023-09-28 at 10 04 34 AM" src="https://github.com/AceCanacan/reflecto-web-public/assets/110709199/5da4cf2e-f78b-46d9-aebd-b931076d5e4a">
+<img width="1000" alt="Screen Shot 2023-09-28 at 4 36 15 PM" src="https://github.com/AceCanacan/reflecto-web-public/assets/110709199/42aa6c80-5f42-429b-832b-4a2abd2a344d">
+<img width="1000" alt="Screen Shot 2023-09-28 at 4 18 06 PM" src="https://github.com/AceCanacan/reflecto-web-public/assets/110709199/2383bf1e-593d-4fd9-934c-23bfbd58d77d">
+<img width="1000" alt="Screen Shot 2023-09-28 at 4 19 48 PM" src="https://github.com/AceCanacan/reflecto-web-public/assets/110709199/803204fc-e4ae-4386-ac2c-077ae46fc6d6">
+
+
 ## 📌 Table of Contents
 - [📖 Project Description](#project-description)
 - [🔧 Installation](#installation)
